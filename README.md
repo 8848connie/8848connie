@@ -1,9 +1,7 @@
 <h1 align="center">嗨👋，我是康妮</h1>
 <h3 align="center">返回零</h3>
 
-<h3 align="left">联系我：</h3>
-<p align="left">
-</p>
+
 
 <h3 align="left">语言和工具：</h3>
 <p align="left">
