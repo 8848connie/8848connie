@@ -1,9 +1,9 @@
-<h1 align="center">嗨👋，我是康妮</h1>
-<h3 align="center">返回零</h3>
+<h1 align="center">heey👋，I'm connie</h1>
+<h3 align="center">return to zero</h3>
 
 
 
-<h3 align="left">语言和工具：</h3>
+<h3 align="left">Language and tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;" />
