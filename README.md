@@ -1,5 +1,4 @@
 <h1 align="center">heey👋，I'm connie</h1>
-<h3 align="center">return to zero</h3>
 
 <div align="center">
 
