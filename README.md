@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=a2c2e8&secondaryColor=667eea&height=150&section=header&text=8848connie&fontSize=70&animation=fadeIn" />
+
 
 <br />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
