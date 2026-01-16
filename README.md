@@ -31,18 +31,12 @@
 
 <div align="center">
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" style="background-color: #ffffff; padding: 15px; border: 1px solid #f0f0f0; border-radius: 2px; box-shadow: 0 15px 35px rgba(102,126,234,0.15);">
-      <img src="https://raw.githubusercontent.com/8848connie/8848connie/main/_20260116093924_309_5.jpg" 
-           style="max-width: 400px; width: 100%; height: auto; display: block; border-radius: 1px;" 
-           alt="Visual Content" />
-      <div style="padding: 25px 0 10px 0;">
-        <font face="Georgia" size="4" color="#a2c2e8"><i>Keep Moving Forward ✨</i></font>
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/8848connie/8848connie/main/_20260116093924_309_5.jpg" 
+       style="max-width: 450px; width: 100%; height: auto; display: inline-block; border: none;" 
+       alt="Visual Content" />
+</div>
+
 <br />
 
 </div>
