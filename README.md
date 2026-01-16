@@ -29,13 +29,21 @@
 
 <br />
 
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Cloud%20with%20Snow.png" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="40" />
-</p>
+<div align="center">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" style="background-color: #ffffff; padding: 18px 18px 45px 18px; border: 1px solid #f0f0f0; border-radius: 2px; box-shadow: 0 15px 35px rgba(102,126,234,0.15);">
+      
+      <img src="https://raw.githubusercontent.com/8848connie/8848connie/main/_20260116093924_309_5.jpg" 
+           style="max-width: 450px; width: 100%; height: auto; display: block; border-radius: 1px;" 
+           alt="Visual Content" />
+      
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br />
 
