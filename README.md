@@ -14,7 +14,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" style="background-color: #ffffff; padding: 15px; border: 1px solid #f0f0f0; border-radius: 2px; box-shadow: 0 15px 35px rgba(102,126,234,0.15);">
-      <img src="https://raw.githubusercontent.com/8848connie/8848connie/main/20251117090419_119_5.jpg" 
+      <img src="https://raw.githubusercontent.com/8848connie/8848connie/main/photos/20251117090419_119_5.jpg" 
            style="max-width: 400px; width: 100%; height: auto; display: block; border-radius: 1px;" 
            alt="Profile Photo" />
       <div style="padding: 25px 0 10px 0;">
@@ -29,7 +29,7 @@
 <div align="center">
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/8848connie/8848connie/main/_20260116093924_309_5.jpg" 
+  <img src="https://raw.githubusercontent.com/8848connie/8848connie/main/photos/_20260116093924_309_5.jpg" 
        style="max-width: 450px; width: 100%; height: auto; display: inline-block; border: none;" 
        alt="Visual Content" />
 </div>
@@ -77,6 +77,10 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=a2c2e8&height=100&section=footer" />
 
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/8848connie/8848connie/main/photos/_20260117171718_322_5.jpg" 
+       style="max-width: 450px; width: 100%; height: auto; display: inline-block; border: none;" 
+       alt="Visual Content" />
+</div>
 </div>
